@@ -1,0 +1,8 @@
+{
+    "value": [
+        "ref:c984eca8:/home/tb24/projects/scala-projects/cask_webapp/minimalApplication-0.8.3/app/resources",
+        "ref:fbf51a12:/home/tb24/projects/scala-projects/cask_webapp/minimalApplication-0.8.3/out/app/compile/dest/classes"
+    ],
+    "valueHash": -115957654,
+    "inputsHash": -585151202
+}

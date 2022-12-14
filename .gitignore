@@ -1,0 +1,20 @@
+# Ignore Coursier
+.coursier/
+
+# Ignore project folder
+project/
+
+# Ignore mill build tool
+mill
+
+# Ignore target folder
+target/
+
+# Ignore bsp ???
+.bsp/
+
+# Ignore cask.zip
+cask.zip
+
+
+
